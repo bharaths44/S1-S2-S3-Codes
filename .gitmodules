@@ -1,0 +1,39 @@
+[submodule "Shopping-Mall-Management-System"]
+	path = Shopping-Mall-Management-System
+	url = https://github.com/bharaths44/Shopping-Mall-Management-System.git
+[submodule "hospital"]
+	path = hospital
+	url = https://github.com/bharaths44/hospital.git
+[submodule "Gradecard"]
+	path = Gradecard
+	url = https://github.com/bharaths44/Gradecard.git
+[submodule "insert-select-bubble-sort"]
+	path = insert-select-bubble-sort
+	url = https://github.com/bharaths44/insert-select-bubble-sort.git
+[submodule "graphs"]
+	path = graphs
+	url = https://github.com/bharaths44/graphs.git
+[submodule "Infix-to-postfix-and-postfix-evaluation"]
+	path = Infix-to-postfix-and-postfix-evaluation
+	url = https://github.com/bharaths44/Infix-to-postfix-and-postfix-evaluation.git
+[submodule "linear-and-binary-search"]
+	path = linear-and-binary-search
+	url = https://github.com/bharaths44/linear-and-binary-search.git
+[submodule "binary-tree"]
+	path = binary-tree
+	url = https://github.com/bharaths44/binary-tree.git
+[submodule "quick-and-merge-sort"]
+	path = quick-and-merge-sort
+	url = https://github.com/bharaths44/quick-and-merge-sort.git
+[submodule "stack"]
+	path = stack
+	url = https://github.com/bharaths44/stack.git
+[submodule "polynomial-addition"]
+	path = polynomial-addition
+	url = https://github.com/bharaths44/polynomial-addition.git
+[submodule "Queue"]
+	path = Queue
+	url = https://github.com/bharaths44/Queue.git
+[submodule "linkedlist"]
+	path = linkedlist
+	url = https://github.com/bharaths44/linkedlist.git
